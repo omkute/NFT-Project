@@ -36,7 +36,7 @@ function Main({selectedPunk, punkListData}) {
             <img
               src=
                 {activePunk.owner.profile_img_url}
-              
+              alt="ownerimg"
               
             />
           </div>
